@@ -31,6 +31,15 @@ let map = L.map('mapid', {
 // Pass our map layers into our layers control and add the layers control to the map.
 L.control.layers(baseMaps).addTo(map);
 
+// Accessing the Toronto airline routes GeoJSON URL
+// let torontoHoods = "https://raw.githubusercontent.com/1on1pt/Mapping_Earthquakes/main/torontoNeighborhoods.json";
+
+// // Create style for lines and fill.
+// let myStyle = {
+//   fillColor: "#ffffa1",
+//   color: "blue",
+//   weight: 1
+// }
 // Retrieve the earthquake GeoJSON data.
 d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson").then(function(data) {
   // Creating a GeoJSON layer with the retrieved data.
