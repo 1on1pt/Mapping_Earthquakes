@@ -78,15 +78,17 @@ And the *"Satellite"* interactive option with the Major Earthquake data and popu
 ![majorEQ_image_with_popup_satellite](https://user-images.githubusercontent.com/94148420/159168909-8793c79d-bc49-4dbf-a31b-4520dfac052e.PNG)
 
 ### Deliverable 3: Add an Additional Map
+A third map style, **Dark**, to the interactive Earthquake map.
 
+This is the coding that added the **Dark** style:
 
+![dark_code1](https://user-images.githubusercontent.com/94148420/159171348-09a87f30-f04b-4202-86d3-e0311b81a936.PNG)
 
+![dark_code2](https://user-images.githubusercontent.com/94148420/159171366-a591cb7d-6edf-4dce-9264-aa671ac9cc16.PNG)
 
+Here is an image of the Earthquakes interactive map with the **Dark** map style:
 
-
-
-
-
+![dark_map](https://user-images.githubusercontent.com/94148420/159171459-67ca8899-02d8-49e5-8fd7-410183f3f598.PNG)
 
 
 ## Summary
