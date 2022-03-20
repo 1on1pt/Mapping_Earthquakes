@@ -92,3 +92,13 @@ Here is an image of the Earthquakes interactive map with the **Dark** map style:
 
 
 ## Summary
+This was a very challenging project, but Basil and Sadhanna should be very happy with the outcome that includes an interactive webpage that displays earthquake activity for the past seven days with user options that include the style of map:
+* Street
+* Satellite
+* Dark
+
+And what data to display:
+* Tectonic Plates
+* Earthquakes
+* Major Earthquakes
+
