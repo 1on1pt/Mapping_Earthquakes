@@ -103,7 +103,8 @@ This was a very challenging project, but Basil and Sadhanna should be very happy
 * Earthquakes
 * Major Earthquakes
 
-## Contact:
+__________________________________________________________
+##_ Contact:
 
-### E-mail: jbeauchamppt@gmail.com
+#### E-mail: jbeauchamppt@gmail.com
 
